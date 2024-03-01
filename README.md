@@ -1,4 +1,4 @@
-# Simple Producer/Consumer Web Link Extractor
+# Web Link Scraper
 
 This README provides an overview of a simple implementation of a producer/consumer system for extracting hyperlinks from web pages.
 
